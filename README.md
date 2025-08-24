@@ -30,9 +30,9 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://imgur.com/xdks1ZI
 
-GIF created with [LiceCap](https://www.cockos.com/licecap/)
+[ScreenToGif](https://www.screentogif.com/) for Windows
 
 ## Notes
 
@@ -40,7 +40,7 @@ The main challenge encountered was implementing PicoCSS properly due to not havi
 
 ## License
 
-Copyright [2025] [Your Name]
+Copyright [2025] [Dhruv Sharma]
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 
